@@ -1,0 +1,29 @@
+body{
+    background:rgb(179, 179, 233);
+    margin-left: 300px;
+    margin-right: auto;
+}
+header{
+    margin-top: 55px;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: seashell;
+}
+h2{
+    font-family: sans-serif;
+}
+p{
+    font-weight: 300;
+}
+img{
+    margin-bottom: 30px;
+}
+.logos{
+    margin-bottom: 0px;
+    width: 30px;
+}
+footer{
+    background: red;
+    margin-bottom: 100px;
+}
